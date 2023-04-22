@@ -1,0 +1,15 @@
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\bin\Debug\net6.0\L5_DU_1219823.exe
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\bin\Debug\net6.0\L5_DU_1219823.deps.json
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\bin\Debug\net6.0\L5_DU_1219823.runtimeconfig.json
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\bin\Debug\net6.0\L5_DU_1219823.dll
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\bin\Debug\net6.0\L5_DU_1219823.pdb
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\obj\Debug\net6.0\L5_DU_1219823.csproj.AssemblyReference.cache
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\obj\Debug\net6.0\L5_DU_1219823.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\obj\Debug\net6.0\L5_DU_1219823.AssemblyInfoInputs.cache
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\obj\Debug\net6.0\L5_DU_1219823.AssemblyInfo.cs
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\obj\Debug\net6.0\L5_DU_1219823.csproj.CoreCompileInputs.cache
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\obj\Debug\net6.0\L5_DU_1219823.dll
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\obj\Debug\net6.0\refint\L5_DU_1219823.dll
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\obj\Debug\net6.0\L5_DU_1219823.pdb
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\obj\Debug\net6.0\L5_DU_1219823.genruntimeconfig.cache
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Semana 6 P\L5_DU_1219823\L5_DU_1219823\obj\Debug\net6.0\ref\L5_DU_1219823.dll
